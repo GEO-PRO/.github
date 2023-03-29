@@ -5,6 +5,6 @@
 # Repo:
 | Repo | Core
 | --- | --- |
-| [core-service]() |`nestjs`  
-| [ui-admin]() | `react` + `tailwindcss` 
-| [ui-web]() | `react` + `bs5` 
+| [core-service](https://github.com/GEO-PRO/core-service) |`nestjs`  
+| [ui-admin](https://github.com/GEO-PRO/ui-admin) | `react` + `tailwindcss` 
+| [ui-web](https://github.com/GEO-PRO/ui-web) | `react` + `bs5` 
