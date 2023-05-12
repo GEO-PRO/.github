@@ -3,10 +3,10 @@
 - Dev by [Huynh Thom](https://www.facebook.com/huynh.thom.549).
 
 # Repo:
-| Repo | Core
-| --- | --- |
-| [core-service](https://github.com/GEO-PRO/core-service) |`nestjs`  
-| [ui-admin](https://github.com/GEO-PRO/ui-admin) | `react` + `tailwindcss` 
-| [ui-web](https://github.com/GEO-PRO/ui-web) | `react` + `bs5` 
-| [database](https://github.com/GEO-PRO/dev-database) | `postgreSQL` 
-| [images-service](https://github.com/GEO-PRO/images-service) | `nginx` 
+| Repo | Core | Port
+| --- | --- | --- |
+| [core-service](https://github.com/GEO-PRO/core-service) |`nestjs` | 3001
+| [ui-admin](https://github.com/GEO-PRO/ui-admin) | `react` + `tailwindcss` | 3002
+| [ui-web](https://github.com/GEO-PRO/ui-web) | `react` + `bs5` | 3000
+| [database](https://github.com/GEO-PRO/dev-database) | `postgreSQL` | 5436
+| [images-service](https://github.com/GEO-PRO/images-service) | `nginx` | 81
